@@ -1,5 +1,4 @@
-
-###Simple To-Do List Application
+### Simple To-Do List Application
 
 ## Welcome! 👋
 This is a straightforward To-Do List application built using HTML, CSS, and JavaScript. The app allows users to add tasks and remove them with ease.
