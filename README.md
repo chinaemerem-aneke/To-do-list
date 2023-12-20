@@ -4,9 +4,11 @@
 This is a straightforward To-Do List application built using HTML, CSS, and JavaScript. The app allows users to add tasks and remove them with ease.
 Thanks for checking out this To-do List App.
 
-##Features
-Add Tasks: Users can input new tasks through a designated input field.
-Remove Tasks: Each task is displayed as a separate item with a "Remove" button. Clicking the "Remove" button removes the corresponding task.
+## Features
+## Add tasks: 
+Users can input new tasks through a designated input field.
+## Remove tasks:
+Each task is displayed as a separate item with a "Remove" button. Clicking the "Remove" button removes the corresponding task.
 
 
 ## Resources
